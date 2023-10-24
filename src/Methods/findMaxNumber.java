@@ -11,7 +11,7 @@ public class findMaxNumber {
         int b = 15;
 
 
-       int c = max(a,b);
-        System.out.println("The maximum number is: " + c);
+       int c = max(a,b);        //---> Method Calling
+       System.out.println("The maximum number is: " + c);
     }
 }
