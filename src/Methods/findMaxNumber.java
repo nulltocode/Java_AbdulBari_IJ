@@ -12,6 +12,6 @@ public class findMaxNumber {
 
 
        int c = max(a,b);
-        System.out.println("The maximum number is " + c);
+        System.out.println("The maximum number is: " + c);
     }
 }
